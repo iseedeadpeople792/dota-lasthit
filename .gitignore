@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+work/
+/*.png
+status.json
+data/rec/
+data/heroicons/
+.omc

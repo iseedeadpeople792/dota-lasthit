@@ -1,0 +1,891 @@
+{
+ "Anti-Mage": {
+  "id": 1,
+  "key": "antimage",
+  "min": 29,
+  "max": 33,
+  "type": "Melee"
+ },
+ "Axe": {
+  "id": 2,
+  "key": "axe",
+  "min": 31,
+  "max": 35,
+  "type": "Melee"
+ },
+ "Bane": {
+  "id": 3,
+  "key": "bane",
+  "min": 24,
+  "max": 30,
+  "type": "Ranged"
+ },
+ "Bloodseeker": {
+  "id": 4,
+  "key": "bloodseeker",
+  "min": 35,
+  "max": 41,
+  "type": "Melee"
+ },
+ "Crystal Maiden": {
+  "id": 5,
+  "key": "crystal_maiden",
+  "min": 28,
+  "max": 34,
+  "type": "Ranged"
+ },
+ "Drow Ranger": {
+  "id": 6,
+  "key": "drow_ranger",
+  "min": 27,
+  "max": 34,
+  "type": "Ranged"
+ },
+ "Earthshaker": {
+  "id": 7,
+  "key": "earthshaker",
+  "min": 27,
+  "max": 37,
+  "type": "Melee"
+ },
+ "Juggernaut": {
+  "id": 8,
+  "key": "juggernaut",
+  "min": 22,
+  "max": 24,
+  "type": "Melee"
+ },
+ "Mirana": {
+  "id": 9,
+  "key": "mirana",
+  "min": 22,
+  "max": 28,
+  "type": "Ranged"
+ },
+ "Morphling": {
+  "id": 10,
+  "key": "morphling",
+  "min": 12,
+  "max": 21,
+  "type": "Ranged"
+ },
+ "Shadow Fiend": {
+  "id": 11,
+  "key": "nevermore",
+  "min": 16,
+  "max": 22,
+  "type": "Ranged"
+ },
+ "Phantom Lancer": {
+  "id": 12,
+  "key": "phantom_lancer",
+  "min": 26,
+  "max": 36,
+  "type": "Melee"
+ },
+ "Puck": {
+  "id": 13,
+  "key": "puck",
+  "min": 22,
+  "max": 30,
+  "type": "Ranged"
+ },
+ "Pudge": {
+  "id": 14,
+  "key": "pudge",
+  "min": 45,
+  "max": 51,
+  "type": "Melee"
+ },
+ "Razor": {
+  "id": 15,
+  "key": "razor",
+  "min": 23,
+  "max": 25,
+  "type": "Ranged"
+ },
+ "Sand King": {
+  "id": 16,
+  "key": "sand_king",
+  "min": 19,
+  "max": 29,
+  "type": "Melee"
+ },
+ "Storm Spirit": {
+  "id": 17,
+  "key": "storm_spirit",
+  "min": 24,
+  "max": 34,
+  "type": "Ranged"
+ },
+ "Sven": {
+  "id": 18,
+  "key": "sven",
+  "min": 37,
+  "max": 39,
+  "type": "Melee"
+ },
+ "Tiny": {
+  "id": 19,
+  "key": "tiny",
+  "min": 31,
+  "max": 37,
+  "type": "Melee"
+ },
+ "Vengeful Spirit": {
+  "id": 20,
+  "key": "vengefulspirit",
+  "min": 28,
+  "max": 34,
+  "type": "Ranged"
+ },
+ "Windranger": {
+  "id": 21,
+  "key": "windrunner",
+  "min": 24,
+  "max": 36,
+  "type": "Ranged"
+ },
+ "Zeus": {
+  "id": 22,
+  "key": "zuus",
+  "min": 30,
+  "max": 40,
+  "type": "Ranged"
+ },
+ "Kunkka": {
+  "id": 23,
+  "key": "kunkka",
+  "min": 30,
+  "max": 36,
+  "type": "Melee"
+ },
+ "Lina": {
+  "id": 25,
+  "key": "lina",
+  "min": 21,
+  "max": 29,
+  "type": "Ranged"
+ },
+ "Lion": {
+  "id": 26,
+  "key": "lion",
+  "min": 29,
+  "max": 35,
+  "type": "Ranged"
+ },
+ "Shadow Shaman": {
+  "id": 27,
+  "key": "shadow_shaman",
+  "min": 40,
+  "max": 47,
+  "type": "Ranged"
+ },
+ "Slardar": {
+  "id": 28,
+  "key": "slardar",
+  "min": 30,
+  "max": 38,
+  "type": "Melee"
+ },
+ "Tidehunter": {
+  "id": 29,
+  "key": "tidehunter",
+  "min": 25,
+  "max": 31,
+  "type": "Melee"
+ },
+ "Witch Doctor": {
+  "id": 30,
+  "key": "witch_doctor",
+  "min": 26,
+  "max": 36,
+  "type": "Ranged"
+ },
+ "Lich": {
+  "id": 31,
+  "key": "lich",
+  "min": 24,
+  "max": 33,
+  "type": "Ranged"
+ },
+ "Riki": {
+  "id": 32,
+  "key": "riki",
+  "min": 22,
+  "max": 26,
+  "type": "Melee"
+ },
+ "Enigma": {
+  "id": 33,
+  "key": "enigma",
+  "min": 19,
+  "max": 25,
+  "type": "Ranged"
+ },
+ "Tinker": {
+  "id": 34,
+  "key": "tinker",
+  "min": 22,
+  "max": 28,
+  "type": "Ranged"
+ },
+ "Sniper": {
+  "id": 35,
+  "key": "sniper",
+  "min": 13,
+  "max": 19,
+  "type": "Ranged"
+ },
+ "Necrophos": {
+  "id": 36,
+  "key": "necrolyte",
+  "min": 26,
+  "max": 30,
+  "type": "Ranged"
+ },
+ "Warlock": {
+  "id": 37,
+  "key": "warlock",
+  "min": 27,
+  "max": 37,
+  "type": "Ranged"
+ },
+ "Beastmaster": {
+  "id": 38,
+  "key": "beastmaster",
+  "min": 23,
+  "max": 27,
+  "type": "Melee"
+ },
+ "Queen of Pain": {
+  "id": 39,
+  "key": "queenofpain",
+  "min": 26,
+  "max": 32,
+  "type": "Ranged"
+ },
+ "Venomancer": {
+  "id": 40,
+  "key": "venomancer",
+  "min": 18,
+  "max": 21,
+  "type": "Ranged"
+ },
+ "Faceless Void": {
+  "id": 41,
+  "key": "faceless_void",
+  "min": 34,
+  "max": 40,
+  "type": "Melee"
+ },
+ "Wraith King": {
+  "id": 42,
+  "key": "skeleton_king",
+  "min": 38,
+  "max": 40,
+  "type": "Melee"
+ },
+ "Death Prophet": {
+  "id": 43,
+  "key": "death_prophet",
+  "min": 22,
+  "max": 32,
+  "type": "Ranged"
+ },
+ "Phantom Assassin": {
+  "id": 44,
+  "key": "phantom_assassin",
+  "min": 35,
+  "max": 37,
+  "type": "Melee"
+ },
+ "Pugna": {
+  "id": 45,
+  "key": "pugna",
+  "min": 21,
+  "max": 28,
+  "type": "Ranged"
+ },
+ "Templar Assassin": {
+  "id": 46,
+  "key": "templar_assassin",
+  "min": 28,
+  "max": 33,
+  "type": "Ranged"
+ },
+ "Viper": {
+  "id": 47,
+  "key": "viper",
+  "min": 27,
+  "max": 29,
+  "type": "Ranged"
+ },
+ "Luna": {
+  "id": 48,
+  "key": "luna",
+  "min": 26,
+  "max": 32,
+  "type": "Ranged"
+ },
+ "Dragon Knight": {
+  "id": 49,
+  "key": "dragon_knight",
+  "min": 34,
+  "max": 40,
+  "type": "Melee"
+ },
+ "Dazzle": {
+  "id": 50,
+  "key": "dazzle",
+  "min": 19,
+  "max": 25,
+  "type": "Ranged"
+ },
+ "Clockwerk": {
+  "id": 51,
+  "key": "rattletrap",
+  "min": 24,
+  "max": 26,
+  "type": "Melee"
+ },
+ "Leshrac": {
+  "id": 52,
+  "key": "leshrac",
+  "min": 27,
+  "max": 31,
+  "type": "Ranged"
+ },
+ "Nature's Prophet": {
+  "id": 53,
+  "key": "furion",
+  "min": 20,
+  "max": 26,
+  "type": "Ranged"
+ },
+ "Lifestealer": {
+  "id": 54,
+  "key": "life_stealer",
+  "min": 26,
+  "max": 32,
+  "type": "Melee"
+ },
+ "Dark Seer": {
+  "id": 55,
+  "key": "dark_seer",
+  "min": 31,
+  "max": 37,
+  "type": "Melee"
+ },
+ "Clinkz": {
+  "id": 56,
+  "key": "clinkz",
+  "min": 19,
+  "max": 25,
+  "type": "Ranged"
+ },
+ "Omniknight": {
+  "id": 57,
+  "key": "omniknight",
+  "min": 31,
+  "max": 41,
+  "type": "Melee"
+ },
+ "Enchantress": {
+  "id": 58,
+  "key": "enchantress",
+  "min": 21,
+  "max": 31,
+  "type": "Ranged"
+ },
+ "Huskar": {
+  "id": 59,
+  "key": "huskar",
+  "min": 21,
+  "max": 26,
+  "type": "Ranged"
+ },
+ "Night Stalker": {
+  "id": 60,
+  "key": "night_stalker",
+  "min": 40,
+  "max": 44,
+  "type": "Melee"
+ },
+ "Broodmother": {
+  "id": 61,
+  "key": "broodmother",
+  "min": 27,
+  "max": 33,
+  "type": "Melee"
+ },
+ "Bounty Hunter": {
+  "id": 62,
+  "key": "bounty_hunter",
+  "min": 33,
+  "max": 41,
+  "type": "Melee"
+ },
+ "Weaver": {
+  "id": 63,
+  "key": "weaver",
+  "min": 37,
+  "max": 43,
+  "type": "Ranged"
+ },
+ "Jakiro": {
+  "id": 64,
+  "key": "jakiro",
+  "min": 27,
+  "max": 35,
+  "type": "Ranged"
+ },
+ "Batrider": {
+  "id": 65,
+  "key": "batrider",
+  "min": 12,
+  "max": 16,
+  "type": "Ranged"
+ },
+ "Chen": {
+  "id": 66,
+  "key": "chen",
+  "min": 29,
+  "max": 39,
+  "type": "Ranged"
+ },
+ "Spectre": {
+  "id": 67,
+  "key": "spectre",
+  "min": 23,
+  "max": 27,
+  "type": "Melee"
+ },
+ "Ancient Apparition": {
+  "id": 68,
+  "key": "ancient_apparition",
+  "min": 21,
+  "max": 31,
+  "type": "Ranged"
+ },
+ "Doom": {
+  "id": 69,
+  "key": "doom_bringer",
+  "min": 32,
+  "max": 42,
+  "type": "Melee"
+ },
+ "Ursa": {
+  "id": 70,
+  "key": "ursa",
+  "min": 24,
+  "max": 28,
+  "type": "Melee"
+ },
+ "Spirit Breaker": {
+  "id": 71,
+  "key": "spirit_breaker",
+  "min": 34,
+  "max": 44,
+  "type": "Melee"
+ },
+ "Gyrocopter": {
+  "id": 72,
+  "key": "gyrocopter",
+  "min": 18,
+  "max": 24,
+  "type": "Ranged"
+ },
+ "Alchemist": {
+  "id": 73,
+  "key": "alchemist",
+  "min": 27,
+  "max": 33,
+  "type": "Melee"
+ },
+ "Invoker": {
+  "id": 74,
+  "key": "invoker",
+  "min": 19,
+  "max": 25,
+  "type": "Ranged"
+ },
+ "Silencer": {
+  "id": 75,
+  "key": "silencer",
+  "min": 18,
+  "max": 32,
+  "type": "Ranged"
+ },
+ "Outworld Devourer": {
+  "id": 76,
+  "key": "obsidian_destroyer",
+  "min": 19,
+  "max": 31,
+  "type": "Ranged"
+ },
+ "Lycan": {
+  "id": 77,
+  "key": "lycan",
+  "min": 24,
+  "max": 29,
+  "type": "Melee"
+ },
+ "Brewmaster": {
+  "id": 78,
+  "key": "brewmaster",
+  "min": 26,
+  "max": 33,
+  "type": "Melee"
+ },
+ "Shadow Demon": {
+  "id": 79,
+  "key": "shadow_demon",
+  "min": 29,
+  "max": 33,
+  "type": "Ranged"
+ },
+ "Lone Druid": {
+  "id": 80,
+  "key": "lone_druid",
+  "min": 22,
+  "max": 26,
+  "type": "Ranged"
+ },
+ "Chaos Knight": {
+  "id": 81,
+  "key": "chaos_knight",
+  "min": 29,
+  "max": 49,
+  "type": "Melee"
+ },
+ "Meepo": {
+  "id": 82,
+  "key": "meepo",
+  "min": 29,
+  "max": 35,
+  "type": "Melee"
+ },
+ "Treant Protector": {
+  "id": 83,
+  "key": "treant",
+  "min": 60,
+  "max": 68,
+  "type": "Melee"
+ },
+ "Ogre Magi": {
+  "id": 84,
+  "key": "ogre_magi",
+  "min": 45,
+  "max": 51,
+  "type": "Melee"
+ },
+ "Undying": {
+  "id": 85,
+  "key": "undying",
+  "min": 33,
+  "max": 41,
+  "type": "Melee"
+ },
+ "Rubick": {
+  "id": 86,
+  "key": "rubick",
+  "min": 25,
+  "max": 31,
+  "type": "Ranged"
+ },
+ "Disruptor": {
+  "id": 87,
+  "key": "disruptor",
+  "min": 27,
+  "max": 31,
+  "type": "Ranged"
+ },
+ "Nyx Assassin": {
+  "id": 88,
+  "key": "nyx_assassin",
+  "min": 26,
+  "max": 30,
+  "type": "Melee"
+ },
+ "Naga Siren": {
+  "id": 89,
+  "key": "naga_siren",
+  "min": 23,
+  "max": 25,
+  "type": "Melee"
+ },
+ "Keeper of the Light": {
+  "id": 90,
+  "key": "keeper_of_the_light",
+  "min": 20,
+  "max": 27,
+  "type": "Ranged"
+ },
+ "Io": {
+  "id": 91,
+  "key": "wisp",
+  "min": 21,
+  "max": 27,
+  "type": "Ranged"
+ },
+ "Visage": {
+  "id": 92,
+  "key": "visage",
+  "min": 21,
+  "max": 31,
+  "type": "Ranged"
+ },
+ "Slark": {
+  "id": 93,
+  "key": "slark",
+  "min": 37,
+  "max": 43,
+  "type": "Melee"
+ },
+ "Medusa": {
+  "id": 94,
+  "key": "medusa",
+  "min": 26,
+  "max": 32,
+  "type": "Ranged"
+ },
+ "Troll Warlord": {
+  "id": 95,
+  "key": "troll_warlord",
+  "min": 27,
+  "max": 35,
+  "type": "Ranged"
+ },
+ "Centaur Warrunner": {
+  "id": 96,
+  "key": "centaur",
+  "min": 36,
+  "max": 38,
+  "type": "Melee"
+ },
+ "Magnus": {
+  "id": 97,
+  "key": "magnataur",
+  "min": 31,
+  "max": 39,
+  "type": "Melee"
+ },
+ "Timbersaw": {
+  "id": 98,
+  "key": "shredder",
+  "min": 23,
+  "max": 27,
+  "type": "Melee"
+ },
+ "Bristleback": {
+  "id": 99,
+  "key": "bristleback",
+  "min": 31,
+  "max": 37,
+  "type": "Melee"
+ },
+ "Tusk": {
+  "id": 100,
+  "key": "tusk",
+  "min": 27,
+  "max": 31,
+  "type": "Melee"
+ },
+ "Skywrath Mage": {
+  "id": 101,
+  "key": "skywrath_mage",
+  "min": 16,
+  "max": 26,
+  "type": "Ranged"
+ },
+ "Abaddon": {
+  "id": 102,
+  "key": "abaddon",
+  "min": 22,
+  "max": 32,
+  "type": "Melee"
+ },
+ "Elder Titan": {
+  "id": 103,
+  "key": "elder_titan",
+  "min": 23,
+  "max": 33,
+  "type": "Melee"
+ },
+ "Legion Commander": {
+  "id": 104,
+  "key": "legion_commander",
+  "min": 33,
+  "max": 37,
+  "type": "Melee"
+ },
+ "Techies": {
+  "id": 105,
+  "key": "techies",
+  "min": 20,
+  "max": 22,
+  "type": "Ranged"
+ },
+ "Ember Spirit": {
+  "id": 106,
+  "key": "ember_spirit",
+  "min": 33,
+  "max": 37,
+  "type": "Melee"
+ },
+ "Earth Spirit": {
+  "id": 107,
+  "key": "earth_spirit",
+  "min": 25,
+  "max": 29,
+  "type": "Melee"
+ },
+ "Underlord": {
+  "id": 108,
+  "key": "abyssal_underlord",
+  "min": 37,
+  "max": 43,
+  "type": "Melee"
+ },
+ "Terrorblade": {
+  "id": 109,
+  "key": "terrorblade",
+  "min": 26,
+  "max": 32,
+  "type": "Melee"
+ },
+ "Phoenix": {
+  "id": 110,
+  "key": "phoenix",
+  "min": 21,
+  "max": 31,
+  "type": "Ranged"
+ },
+ "Oracle": {
+  "id": 111,
+  "key": "oracle",
+  "min": 13,
+  "max": 19,
+  "type": "Ranged"
+ },
+ "Winter Wyvern": {
+  "id": 112,
+  "key": "winter_wyvern",
+  "min": 16,
+  "max": 23,
+  "type": "Ranged"
+ },
+ "Arc Warden": {
+  "id": 113,
+  "key": "arc_warden",
+  "min": 23,
+  "max": 29,
+  "type": "Ranged"
+ },
+ "Monkey King": {
+  "id": 114,
+  "key": "monkey_king",
+  "min": 29,
+  "max": 33,
+  "type": "Melee"
+ },
+ "Dark Willow": {
+  "id": 119,
+  "key": "dark_willow",
+  "min": 27,
+  "max": 35,
+  "type": "Ranged"
+ },
+ "Pangolier": {
+  "id": 120,
+  "key": "pangolier",
+  "min": 26,
+  "max": 32,
+  "type": "Melee"
+ },
+ "Grimstroke": {
+  "id": 121,
+  "key": "grimstroke",
+  "min": 22,
+  "max": 26,
+  "type": "Ranged"
+ },
+ "Hoodwink": {
+  "id": 123,
+  "key": "hoodwink",
+  "min": 22,
+  "max": 29,
+  "type": "Ranged"
+ },
+ "Void Spirit": {
+  "id": 126,
+  "key": "void_spirit",
+  "min": 18,
+  "max": 22,
+  "type": "Melee"
+ },
+ "Snapfire": {
+  "id": 128,
+  "key": "snapfire",
+  "min": 25,
+  "max": 31,
+  "type": "Ranged"
+ },
+ "Mars": {
+  "id": 129,
+  "key": "mars",
+  "min": 26,
+  "max": 34,
+  "type": "Melee"
+ },
+ "Ring Master": {
+  "id": 131,
+  "key": "ringmaster",
+  "min": 23,
+  "max": 33,
+  "type": "Ranged"
+ },
+ "Dawnbreaker": {
+  "id": 135,
+  "key": "dawnbreaker",
+  "min": 31,
+  "max": 35,
+  "type": "Melee"
+ },
+ "Marci": {
+  "id": 136,
+  "key": "marci",
+  "min": 29,
+  "max": 33,
+  "type": "Melee"
+ },
+ "Primal Beast": {
+  "id": 137,
+  "key": "primal_beast",
+  "min": 36,
+  "max": 38,
+  "type": "Melee"
+ },
+ "Muerta": {
+  "id": 138,
+  "key": "muerta",
+  "min": 24,
+  "max": 32,
+  "type": "Ranged"
+ },
+ "Kez": {
+  "id": 145,
+  "key": "kez",
+  "min": 23,
+  "max": 29,
+  "type": "Melee"
+ },
+ "Largo": {
+  "id": 155,
+  "key": "largo",
+  "min": 39,
+  "max": 45,
+  "type": "Melee"
+ }
+}
